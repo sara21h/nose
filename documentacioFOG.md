@@ -79,6 +79,76 @@ Confirmem la configuració i començarem amb l'instal·lació.
 
 He tornat a fer l’instal·lació amb  una altra màquina on tinc posada xarxa nat i xarxa interna, seguint els mateixos passos que abans, ja que no em funcionava algo.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+> Una vegada hem fet l'instal·lació, entrarem a la web
+
+Seria http://l'ip/fog/management
+
+On l'usuari és fog i la contrasenya és password.
+
+![image](https://github.com/sara21h/nose/assets/113586105/60195aeb-71a7-4d05-ac07-b0a037916ff8)
+
+![image](https://github.com/sara21h/nose/assets/113586105/d1b1e045-01c7-46ff-8724-3a6a550a6aa1)
+
+![image](https://github.com/sara21h/nose/assets/113586105/462ccfcd-ac66-40c6-987b-f04c38179957)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+> Una vegada dins, el que volem fer és capturar l'imatge i instalar-la.
+
+Aquestes 2 pàgines ens poden ajudar:
+
+https://www.bujarra.com/fog-configuracion-base-generacion-de-imagen-despliegue/
+
+https://docs.fogproject.org/en/stable/getting_started/capture_an_image.html
+
+Ens surt un menú en opcions i anirem a images, on crearem una de nova, per a Ubuntu i per a Windows.
+
+![image](https://github.com/sara21h/nose/assets/113586105/5df191c4-5c0e-4f2a-9eb9-9a9d88f32e3b)
+
+![image](https://github.com/sara21h/nose/assets/113586105/b1b97287-05a9-4c89-b05f-6d2f1413b028)
+
+(aquí a sistema operatiu és ubuntu*)
+
+Les configurem com preferim, seleccionant el nom, el sistema operatiu, descripció, entre altes opcions.
+
+![image](https://github.com/sara21h/nose/assets/113586105/3bea35da-0ddb-44c1-802e-191613b97ebc)
+
+Després a list all imatges veiem les que tenim:
+
+![image](https://github.com/sara21h/nose/assets/113586105/70862dbd-3e0e-4403-85ab-895b3a4b0522)
+
+Per a que ens funcioni, hem de configurar la BIOS per a que arranqui per xarxa:
+
+![image](https://github.com/sara21h/nose/assets/113586105/5fb0b94a-2d23-40db-8c21-6c760781a23d)
+
+I jo he seleccionat com a primera xarxa la xarxa NAT i la segona la xarxa interna.
+
+![image](https://github.com/sara21h/nose/assets/113586105/30d07933-956b-4a0b-bd9e-8dd0f7ea004a)
+
+Ens diu que el host no està registrat així que el registrem:
+
+![image](https://github.com/sara21h/nose/assets/113586105/3a974039-c6d4-4fcc-9da8-9f42ca3cd087)
+
+A configuració avançada:
+
+![image](https://github.com/sara21h/nose/assets/113586105/34ba14dd-d3b3-4569-b81a-dd2eb1992563)
+
+I ara:
+
+![image](https://github.com/sara21h/nose/assets/113586105/00790497-fd7f-4a0a-8a5c-9237c445c403)
+
+![image](https://github.com/sara21h/nose/assets/113586105/57bd1716-91d5-4578-b471-ed8aeb912460)
+
+Seleccionem l'imatge
+
+![image](https://github.com/sara21h/nose/assets/113586105/85b997b4-e426-4312-aff0-5a1917b35912)
+
+A la màquina Windows hem seleccionat la de Windows i a la d'Ubuntu la d'Ubuntu.
+
+![image](https://github.com/sara21h/nose/assets/113586105/71aef174-d462-4198-bc3c-080da30d4a0d)
+
 
 
 
