@@ -115,7 +115,7 @@ Les configurem com preferim, seleccionant el nom, el sistema operatiu, descripci
 
 ![image](https://github.com/sara21h/nose/assets/113586105/3bea35da-0ddb-44c1-802e-191613b97ebc)
 
-Després a list all imatges veiem les que tenim:
+Després a list all images veiem les que tenim:
 
 ![image](https://github.com/sara21h/nose/assets/113586105/70862dbd-3e0e-4403-85ab-895b3a4b0522)
 
@@ -138,6 +138,8 @@ A configuració avançada:
 I ara:
 
 ![image](https://github.com/sara21h/nose/assets/113586105/00790497-fd7f-4a0a-8a5c-9237c445c403)
+
+Per instalar l'imatge:
 
 ![image](https://github.com/sara21h/nose/assets/113586105/57bd1716-91d5-4578-b471-ed8aeb912460)
 
