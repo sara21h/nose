@@ -119,7 +119,7 @@ Després a list all imatges veiem les que tenim:
 
 ![image](https://github.com/sara21h/nose/assets/113586105/70862dbd-3e0e-4403-85ab-895b3a4b0522)
 
-Per a que ens funcioni, hem de configurar la BIOS per a que arranqui per xarxa:
+Per a que ens funcioni, hem de configurar la BIOS per a que arranqui per xarxa, configurem l'ordre d'arrancada:
 
 ![image](https://github.com/sara21h/nose/assets/113586105/5fb0b94a-2d23-40db-8c21-6c760781a23d)
 
