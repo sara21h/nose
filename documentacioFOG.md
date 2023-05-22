@@ -127,13 +127,13 @@ I jo he seleccionat com a primera xarxa la xarxa NAT i la segona la xarxa intern
 
 ![image](https://github.com/sara21h/nose/assets/113586105/30d07933-956b-4a0b-bd9e-8dd0f7ea004a)
 
-Ens diu que el host no està registrat així que el registrem:
+Ens diu que el host no està registrat així que el registrem a perform full host registration and inventory:
 
 ![image](https://github.com/sara21h/nose/assets/113586105/3a974039-c6d4-4fcc-9da8-9f42ca3cd087)
 
-A configuració avançada:
+Ens preguntarà coses i surt que ja està registrat.
 
-![image](https://github.com/sara21h/nose/assets/113586105/34ba14dd-d3b3-4569-b81a-dd2eb1992563)
+![image](https://github.com/sara21h/nose/assets/113586105/57bd1716-91d5-4578-b471-ed8aeb912460)
 
 I ara:
 
@@ -148,6 +148,14 @@ Seleccionem l'imatge
 ![image](https://github.com/sara21h/nose/assets/113586105/85b997b4-e426-4312-aff0-5a1917b35912)
 
 A la màquina Windows hem seleccionat la de Windows i a la d'Ubuntu la d'Ubuntu.
+
+![image](https://github.com/sara21h/nose/assets/113586105/71aef174-d462-4198-bc3c-080da30d4a0d)
+
+A configuració avançada, creem una tasca de captura del host:
+
+![image](https://github.com/sara21h/nose/assets/113586105/34ba14dd-d3b3-4569-b81a-dd2eb1992563)
+
+Ara quan es reinicie:
 
 ![image](https://github.com/sara21h/nose/assets/113586105/71aef174-d462-4198-bc3c-080da30d4a0d)
 
