@@ -135,10 +135,6 @@ Ens preguntarà coses i surt que ja està registrat.
 
 ![image](https://github.com/sara21h/nose/assets/113586105/57bd1716-91d5-4578-b471-ed8aeb912460)
 
-I ara:
-
-![image](https://github.com/sara21h/nose/assets/113586105/00790497-fd7f-4a0a-8a5c-9237c445c403)
-
 Per instalar l'imatge:
 
 ![image](https://github.com/sara21h/nose/assets/113586105/57bd1716-91d5-4578-b471-ed8aeb912460)
